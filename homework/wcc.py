@@ -5,7 +5,7 @@ lines = 0
 characters = 0 
 
 for c in sys.stdin.read():
-    if c =='':
+    if c ==' ':
         tokens = tokens + 1
     if c =='\n':
         lines= lines +1

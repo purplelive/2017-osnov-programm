@@ -1,8 +1,14 @@
 import sys
 
-counter = 0 
+tokens = 0
+lines = 0
+characters = 0 
 
 for c in sys.stdin.read():
-	if c in '':
-		counter = counter + 1
-print(counter)
+    if c =='':
+        tokens = tokens + 1
+    if c =='\n':
+        lines= lines +1
+    characters = characters+1
+
+print(tokens, lines, characters)

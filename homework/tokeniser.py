@@ -8,7 +8,7 @@ text = sys.stdin.read()
 
 
 
-sentenceEnd = re.compile('(?<=(?<!Mr)(?<!Mrs)(?<!Ms)(?<!Dr)(?<!Jr)[:.!?])\s{1,2}(?=[A-Z])')
+sentenceEnd = re.compile('(?<=(?<!Mr)(?<!Mrs)(?<!Ms)(?<!Dr)(?<!Jr)[.!?])\s{1,2}(?=[A-Z])')
 sentenceList = sentenceEnd.split(text)
 index=1
 for sentence in sentenceList:
@@ -20,12 +20,12 @@ for sentence in sentenceList:
         
         #wordlist = sentence.replace(' ', ' \n')
         wordEnd = re.compile(' ')
-        wordList = wordEnd.split(sentence)
+        wordList =wordEnd.split(sentence)
         c=1
-        for word in wordList:
-             print('%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_' % (c, word))
+        for w1 in wordList:
+             print('%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_' % (c, w1))
               
-             #print(c,' ',word,'   ', '_','   ', '_','   ', '_','  ', '_', ' ', '_', ' ', '_', ' ', '_')
+             
              
              c=c+1
         

@@ -1,0 +1,1152 @@
+# sent_id = 1
+# text = Cengiz Han.
+( "Cenghis Khan" , "Çinggis Haan" ya da doğum adıyla Temuçin  ( anlamı demirci )  , Moğolca "Чингис Хаан" ya da "Tengiz"  ( anlamı deniz )  , ; d.
+1162 – ö.
+18 Ağustos 1227 )  , Moğol komutan , hükümdar ve Moğol İmparatorluğu'nun kurucusudur.
+
+1	Cengiz	_	_	PROPN	_	_	_	_	_
+2	Han.                    PROPN
+(	_	_	SYM	_	_	_	_	_
+3	"Cenghis	_	_	PROPN	_	_	_	_	_
+4	Khan"	_	_	PROPN	_	_	_	_	_
+5	,	_	_	PUNCT	_	_	_	_	_
+6	"Çinggis	_	_	PROPN	_	_	_	_	_
+7	Haan"	_	_	PROPN	_	_	_	_	_
+8	ya	_	_	SCONJ	_	_	_	_	_
+9	da	_	_	SCONJ	_	_	_	_	_
+10	doğum	_	_	ADJ	_	_	_	_	_
+11	adıyla	_	_	NOUN	_	_	_	_	_
+12	Temuçin	_	_	PROPN	_	_	_	_	_
+13		_	_	X	_	_	_	_	_
+14	(	_	_	SYM	_	_	_	_	_
+15	anlamı	_	_	NOUN	_	_	_	_	_
+16	demirci	_	_	PROPN	_	_	_	_	_
+17	)	_	_	SYM	_	_	_	_	_
+18		_	_	X	_	_	_	_	_
+19	,	_	_	PUNCT	_	_	_	_	_
+20	Moğolca	_	_	PROPN	_	_	_	_	_
+21	"Чингис	_	_	X	_	_	_	_	_
+22	Хаан"	_	_	X	_	_	_	_	_
+23	ya	_	_	SCONJ	_	_	_	_	_
+24	da	_	_	SCONJ	_	_	_	_	_
+25	"Tengiz"	_	_	PROPN	_	_	_	_	_
+26		_	_	X	_	_	_	_	_
+27	(	_	_	SYM	_	_	_	_	_
+28	anlamı	_	_	NOUN	_	_	_	_	_
+29	deniz	_	_	PROPN	_	_	_	_	_
+30	)	_	_	SYM	_	_	_	_	_
+31		_	_	X	_	_	_	_	_
+32	,	_	_	PUNCT	_	_	_	_	_
+33	;	_	_	PUNCT	_	_	_	_	_
+34	d.                      X
+1162	_	_	_	X	_	_	_	_
+35	–	_	_	X	_	_	_	_	_
+36	ö.                      X
+18	_	_	_	X	_	_	_	_
+37	Ağustos	_	_	NOUN	_	_	_	_	_
+38	1227	_	_	NUM	_	_	_	_	_
+39	)	_	_	SYM	_	_	_	_	_
+40		_	_	X	_	_	_	_	_
+41	,	_	_	PUNCT	_	_	_	_	_
+42	Moğol	_	_	PROPN	_	_	_	_	_
+43	komutan	_	_	NOUN	_	_	_	_	_
+44	,	_	_	PUNCT	_	_	_	_	_
+45	hükümdar	_	_	PROPN	_	_	_	_	_
+46	ve	_	_	CCONJ	_	_	_	_	_
+47	Moğol	_	_	PROPN	_	_	_	_	_
+48	İmparatorluğu'nun	_	_	NOUN	_	_	_	_	_
+49	kurucusudur.	_	_	VERB	_	_	_	_	_
+# sent_id = 2
+# text = Cengiz Han , 13.
+
+1	Cengiz	_	_	PROPN	_	_	_	_	_
+2	Han	_	_	PROPN	_	_	_	_	_
+3	,	_	_	PUNCT	_	_	_	_	_
+4	13.	_	_	NUM	_	_	_	_	_
+# sent_id = 3
+# text = Yüzyılın başında Orta Asya'daki tüm göçebe bozkır kavimlerini birleştirerek bir ulus haline getirdi ve o ulusu "Moğol" siyasi kimliği çatısı altında topladı.
+
+1	Yüzyılın	_	_	PROPN	_	_	_	_	_
+2	başında	_	_	ADV	_	_	_	_	_
+3	Orta	_	_	NOUN	_	_	_	_	_
+4	Asya'daki	_	_	PROPN	_	_	_	_	_
+5	tüm	_	_	ADJ	_	_	_	_	_
+6	göçebe	_	_	NOUN	_	_	_	_	_
+7	bozkır	_	_	NOUN	_	_	_	_	_
+8	kavimlerini	_	_	NOUN	_	_	_	_	_
+9	birleştirerek	_	_	VERB	_	_	_	_	_
+10	bir	_	_	NUM	_	_	_	_	_
+11	ulus	_	_	NOUN	_	_	_	_	_
+12	haline	_	_	NOUN	_	_	_	_	_
+13	getirdi	_	_	VERB	_	_	_	_	_
+14	ve	_	_	SCONJ	_	_	_	_	_
+15	o	_	_	PRON	_	_	_	_	_
+16	ulusu	_	_	NOUN	_	_	_	_	_
+17	"Moğol"	_	_	PROPN	_	_	_	_	_
+18	siyasi	_	_	ADJ	_	_	_	_	_
+19	kimliği	_	_	NOUN	_	_	_	_	_
+20	çatısı	_	_	NOUN	_	_	_	_	_
+21	altında	_	_	NOUN	_	_	_	_	_
+22	topladı.	_	_	VERB	_	_	_	_	_
+# sent_id = 4
+# text = Dünya tarihinin en büyük askeri dehalarından biri olarak kabul edilen Cengiz Han , hükümdarlığı döneminde 1206-1227 arasında Kuzey Çin'deki Batı Xia ve Jin Hanedanı , Türkistan'daki Kara Hıtay , Maveraünnehir , Harezm , Horasan ve İran'daki Harzemşahlar ile Kafkasya'da Gürcüler , Deşt-i Kıpçak'taki Rus Knezlikleri ve Kıpçaklar ile İdil Bulgarları üzerine gerçekleştirilen seferler sonucunda Pasifik Okyanusu'ndan Hazar Denizi’ne ve Karadeniz'in kuzeyine kadar uzanan bir imparatorluk kurdu.
+
+1	Dünya	_	_	NOUN	_	_	_	_	_
+2	tarihinin	_	_	NOUN	_	_	_	_	_
+3	en	_	_	ADV	_	_	_	_	_
+4	büyük	_	_	ADJ	_	_	_	_	_
+5	askeri	_	_	ADJ	_	_	_	_	_
+6	dehalarından	_	_	NOUN	_	_	_	_	_
+7	biri	_	_	NUM	_	_	_	_	_
+8	olarak	_	_	ADV	_	_	_	_	_
+9	kabul	_	_	ADJ	_	_	_	_	_
+10	edilen	_	_	VERB	_	_	_	_	_
+11	Cengiz	_	_	PROPN	_	_	_	_	_
+12	Han	_	_	PROPN	_	_	_	_	_
+13	,	_	_	PUNCT	_	_	_	_	_
+14	hükümdarlığı	_	_	NOUN	_	_	_	_	_
+15	döneminde	_	_	NOUN	_	_	_	_	_
+16	1206-1227	_	_	NUM	_	_	_	_	_
+17	arasında	_	_	NOUN	_	_	_	_	_
+18	Kuzey	_	_	NOUN	_	_	_	_	_
+19	Çin'deki	_	_	PROPN	_	_	_	_	_
+20	Batı	_	_	PROPN	_	_	_	_	_
+21	Xia	_	_	PROPN	_	_	_	_	_
+22	ve	_	_	SCONJ	_	_	_	_	_
+23	Jin	_	_	PROPN	_	_	_	_	_
+24	Hanedanı	_	_	NOUN	_	_	_	_	_
+25	,	_	_	PUNCT	_	_	_	_	_
+26	Türkistan'daki	_	_	PROPN	_	_	_	_	_
+27	Kara	_	_	PROPN	_	_	_	_	_
+28	Hıtay	_	_	PROPN	_	_	_	_	_
+29	,	_	_	PUNCT	_	_	_	_	_
+30	Maveraünnehir	_	_	PROPN	_	_	_	_	_
+31	,	_	_	PUNCT	_	_	_	_	_
+32	Harezm	_	_	PROPN	_	_	_	_	_
+33	,	_	_	PUNCT	_	_	_	_	_
+34	Horasan	_	_	PROPN	_	_	_	_	_
+35	ve	_	_	SCONJ	_	_	_	_	_
+36	İran'daki	_	_	PROPN	_	_	_	_	_
+37	Harzemşahlar	_	_	PROPN	_	_	_	_	_
+38	ile	_	_	INTJ	_	_	_	_	_
+39	Kafkasya'da	_	_	PROPN	_	_	_	_	_
+40	Gürcüler	_	_	PROPN	_	_	_	_	_
+41	,	_	_	PUNCT	_	_	_	_	_
+42	Deşt-i	_	_	PROPN	_	_	_	_	_
+43	Kıpçak'taki	_	_	PROPN	_	_	_	_	_
+44	Rus	_	_	PROPN	_	_	_	_	_
+45	Knezlikleri	_	_	PROPN	_	_	_	_	_
+46	ve	_	_	SCONJ	_	_	_	_	_
+47	Kıpçaklar	_	_	PROPN	_	_	_	_	_
+48	ile	_	_	INTJ	_	_	_	_	_
+49	İdil	_	_	PROPN	_	_	_	_	_
+50	Bulgarları	_	_	NOUN	_	_	_	_	_
+51	üzerine	_	_	ADV	_	_	_	_	_
+52	gerçekleştirilen	_	_	VERB	_	_	_	_	_
+53	seferler	_	_	NOUN	_	_	_	_	_
+54	sonucunda	_	_	NOUN	_	_	_	_	_
+55	Pasifik	_	_	PROPN	_	_	_	_	_
+56	Okyanusu'ndan	_	_	NOUN	_	_	_	_	_
+57	Hazar	_	_	PROPN	_	_	_	_	_
+58	Denizi’ne	_	_	NOUN	_	_	_	_	_
+59	ve	_	_	INTJ	_	_	_	_	_
+60	Karadeniz'in	_	_	PROPN	_	_	_	_	_
+61	kuzeyine	_	_	NOUN	_	_	_	_	_
+62	kadar	_	_	ADV	_	_	_	_	_
+63	uzanan	_	_	VERB	_	_	_	_	_
+64	bir	_	_	NUM	_	_	_	_	_
+65	imparatorluk	_	_	NOUN	_	_	_	_	_
+66	kurdu.	_	_	VERB	_	_	_	_	_
+# sent_id = 5
+# text = Bozkır geleneğinden gelen onlu teşkilatı kullanarak Meritokratik  ( liyâkata bağlı )  bir ordu meydana getiren Cengiz Han’ın büyük bir asker olarak ün kazanmasının temelinde , kurduğu posta teşkilatı ve casus ağı ile istihbarat sanatına verdiği büyük değer önemli bir yer tutar.
+
+1	Bozkır	_	_	PROPN	_	_	_	_	_
+2	geleneğinden	_	_	VERB	_	_	_	_	_
+3	gelen	_	_	VERB	_	_	_	_	_
+4	onlu	_	_	ADJ	_	_	_	_	_
+5	teşkilatı	_	_	NOUN	_	_	_	_	_
+6	kullanarak	_	_	NOUN	_	_	_	_	_
+7	Meritokratik	_	_	PROPN	_	_	_	_	_
+8		_	_	X	_	_	_	_	_
+9	(	_	_	SYM	_	_	_	_	_
+10	liyâkata	_	_	NOUN	_	_	_	_	_
+11	bağlı	_	_	VERB	_	_	_	_	_
+12	)	_	_	SYM	_	_	_	_	_
+13		_	_	_	_	_	_	_	_
+14	bir	_	_	NUM	_	_	_	_	_
+15	ordu	_	_	NOUN	_	_	_	_	_
+16	meydana	_	_	NOUN	_	_	_	_	_
+17	getiren	_	_	VERB	_	_	_	_	_
+18	Cengiz	_	_	PROPN	_	_	_	_	_
+19	Han’ın	_	_	PROPN	_	_	_	_	_
+20	büyük	_	_	ADJ	_	_	_	_	_
+21	bir	_	_	NUM	_	_	_	_	_
+22	asker	_	_	NOUN	_	_	_	_	_
+23	olarak	_	_	ADV	_	_	_	_	_
+24	ün	_	_	ADJ	_	_	_	_	_
+25	kazanmasının	_	_	VERB	_	_	_	_	_
+26	temelinde	_	_	NOUN	_	_	_	_	_
+27	,	_	_	PUNCT	_	_	_	_	_
+28	kurduğu	_	_	VERB	_	_	_	_	_
+29	posta	_	_	NOUN	_	_	_	_	_
+30	teşkilatı	_	_	NOUN	_	_	_	_	_
+31	ve	_	_	SCONJ	_	_	_	_	_
+32	casus	_	_	ADJ	_	_	_	_	_
+33	ağı	_	_	NOUN	_	_	_	_	_
+34	ile	_	_	INTJ	_	_	_	_	_
+35	istihbarat	_	_	NOUN	_	_	_	_	_
+36	sanatına	_	_	NOUN	_	_	_	_	_
+37	verdiği	_	_	VERB	_	_	_	_	_
+38	büyük	_	_	ADJ	_	_	_	_	_
+39	değer	_	_	NOUN	_	_	_	_	_
+40	önemli	_	_	ADV	_	_	_	_	_
+41	bir	_	_	NUM	_	_	_	_	_
+42	yer	_	_	NOUN	_	_	_	_	_
+43	tutar.	_	_	VERB	_	_	_	_	_
+# sent_id = 6
+# text = Seferleri sonucunda , pek çok şehir tahrip olmuş ve milyonlarca insan da katledilmişti ancak "Cengiz Han Yasası" adı ile metinleştirilen kurallar ile işkenceyi yasaklayıp , zanaatkarlar , doktorlar , belli bilgi becerisi olan eğitimli kişiler ve her dinden din adamlarına , hangi milletten olursa olsun aralarında bir ayrım yapılmaksızın saygı gösterilmesi ve vergiden muaf tutulmalarını kanunlaştırmıştır Cengiz Han , halkının yazıya sahip olmasını sağlamak için Uygurlardan önemli bahşıları başkenti Karakurum’a çağırmış ve Moğolca için Uygur alfabesini uyarlatarak bunu çocuklarına da öğretmesini istemiştir.
+1227 yılında Kuzey Çin'deki Tangutlar üzerine çıktığı sefer esnasında rahatsızlanarak hayatını kaybetti.
+
+1	Seferleri	_	_	NOUN	_	_	_	_	_
+2	sonucunda	_	_	ADV	_	_	_	_	_
+3	,	_	_	PUNCT	_	_	_	_	_
+4	pek	_	_	ADV	_	_	_	_	_
+5	çok	_	_	ADJ	_	_	_	_	_
+6	şehir	_	_	NOUN	_	_	_	_	_
+7	tahrip	_	_	ADJ	_	_	_	_	_
+8	olmuş	_	_	VERB	_	_	_	_	_
+9	ve	_	_	SCONJ	_	_	_	_	_
+10	milyonlarca	_	_	NUM	_	_	_	_	_
+11	insan	_	_	NOUN	_	_	_	_	_
+12	da	_	_	ZARF	_	_	_	_	_
+13	katledilmişti	_	_	VERB	_	_	_	_	_
+14	ancak	_	_	SCONJ	_	_	_	_	_
+15	"Cengiz	_	_	PROPN	_	_	_	_	_
+16	Han	_	_	PROPN	_	_	_	_	_
+17	Yasası"	_	_	NOUN	_	_	_	_	_
+18	adı	_	_	NOUN	_	_	_	_	_
+19	ile	_	_	INTJ	_	_	_	_	_
+20	metinleştirilen	_	_	VERB	_	_	_	_	_
+21	kurallar	_	_	NOUN	_	_	_	_	_
+22	ile	_	_	INTJ	_	_	_	_	_
+23	işkenceyi	_	_	NOUN	_	_	_	_	_
+24	yasaklayıp	_	_	VERB	_	_	_	_	_
+25	,	_	_	PUNCT	_	_	_	_	_
+26	zanaatkarlar	_	_	NOUN	_	_	_	_	_
+27	,	_	_	PUNCT	_	_	_	_	_
+28	doktorlar	_	_	NOUN	_	_	_	_	_
+29	,	_	_	PUNCT	_	_	_	_	_
+30	belli	_	_	ADJ	_	_	_	_	_
+31	bilgi	_	_	NOUN	_	_	_	_	_
+32	becerisi	_	_	NOUN	_	_	_	_	_
+33	olan	_	_	ADV	_	_	_	_	_
+34	eğitimli	_	_	ADJ	_	_	_	_	_
+35	kişiler	_	_	NOUN	_	_	_	_	_
+36	ve	_	_	SCONJ	_	_	_	_	_
+37	her	_	_	ADJ	_	_	_	_	_
+38	dinden	_	_	NOUN	_	_	_	_	_
+39	din	_	_	NOUN	_	_	_	_	_
+40	adamlarına	_	_	NOUN	_	_	_	_	_
+41	,	_	_	PUNCT	_	_	_	_	_
+42	hangi	_	_	ADV	_	_	_	_	_
+43	milletten	_	_	NOUN	_	_	_	_	_
+44	olursa	_	_	VERB	_	_	_	_	_
+45	olsun	_	_	VERB	_	_	_	_	_
+46	aralarında	_	_	ADV	_	_	_	_	_
+47	bir	_	_	NUM	_	_	_	_	_
+48	ayrım	_	_	ADJ	_	_	_	_	_
+49	yapılmaksızın	_	_	VERB	_	_	_	_	_
+50	saygı	_	_	NOUN	_	_	_	_	_
+51	gösterilmesi	_	_	VERB	_	_	_	_	_
+52	ve	_	_	SCONJ	_	_	_	_	_
+53	vergiden	_	_	NOUN	_	_	_	_	_
+54	muaf	_	_	ADJ	_	_	_	_	_
+55	tutulmalarını	_	_	VERB	_	_	_	_	_
+56	kanunlaştırmıştır	_	_	VERB	_	_	_	_	_
+57	Cengiz	_	_	PROPN	_	_	_	_	_
+58	Han	_	_	PROPN	_	_	_	_	_
+59	,	_	_	PUNCT	_	_	_	_	_
+60	halkının	_	_	NOUN	_	_	_	_	_
+61	yazıya	_	_	NOUN	_	_	_	_	_
+62	sahip	_	_	ADV	_	_	_	_	_
+63	olmasını	_	_	VERB	_	_	_	_	_
+64	sağlamak	_	_	VERB	_	_	_	_	_
+65	için	_	_	SCONJ	_	_	_	_	_
+66	Uygurlardan	_	_	NOUN	_	_	_	_	_
+67	önemli	_	_	ADJ	_	_	_	_	_
+68	bahşıları	_	_	NOUN	_	_	_	_	_
+69	başkenti	_	_	NOUN	_	_	_	_	_
+70	Karakurum’a	_	_	PROPN	_	_	_	_	_
+71	çağırmış	_	_	VERB	_	_	_	_	_
+72	ve	_	_	SCONJ	_	_	_	_	_
+73	Moğolca	_	_	PROPN	_	_	_	_	_
+74	için	_	_	SCONJ	_	_	_	_	_
+75	Uygur	_	_	NOUN	_	_	_	_	_
+76	alfabesini	_	_	NOUN	_	_	_	_	_
+77	uyarlatarak	_	_	VERB	_	_	_	_	_
+78	bunu	_	_	DET	_	_	_	_	_
+79	çocuklarına	_	_	NOUN	_	_	_	_	_
+80	da	_	_	ADV	_	_	_	_	_
+81	öğretmesini	_	_	VERB	_	_	_	_	_
+82	istemiştir.                     VERB
+1227	_	_	_	NUM	_	_	_	_
+83	yılında	_	_	NOUN	_	_	_	_	_
+84	Kuzey	_	_	NOUN	_	_	_	_	_
+85	Çin'deki	_	_	PROPN	_	_	_	_	_
+86	Tangutlar	_	_	PROPN	_	_	_	_	_
+87	üzerine	_	_	NOUN	_	_	_	_	_
+88	çıktığı	_	_	VERB	_	_	_	_	_
+89	sefer	_	_	_	_	_	_	_	_
+90	esnasında	_	_	ADV	_	_	_	_	_
+91	rahatsızlanarak	_	_	VERB	_	_	_	_	_
+92	hayatını	_	_	NOUN	_	_	_	_	_
+93	kaybetti.	_	_	VERB	_	_	_	_	_
+# sent_id = 7
+# text = Kurmuş olduğu imparatorluk günümüzde Rusya hariç tüm ülkelerden daha geniş topraklar üzerine yayılmış vaziyette olup ölümünden sonra , oğulları ve torunları döneminde daha da genişleyerek , insanlık tarihinin gördüğü bitişik sınırlara sahip en büyük imparatorluk haline geldi.
+
+1	Kurmuş	_	_	VERB	_	_	_	_	_
+2	olduğu	_	_	VERB	_	_	_	_	_
+3	imparatorluk	_	_	NOUN	_	_	_	_	_
+4	günümüzde	_	_	NOUN	_	_	_	_	_
+5	Rusya	_	_	PROPN	_	_	_	_	_
+6	hariç	_	_	ADJ	_	_	_	_	_
+7	tüm	_	_	ADJ	_	_	_	_	_
+8	ülkelerden	_	_	NOUN	_	_	_	_	_
+9	daha	_	_	ADV	_	_	_	_	_
+10	geniş	_	_	_	ADJ	_	_	_	_
+11	topraklar	_	_	NOUN	_	_	_	_	_
+12	üzerine	_	_	NOUN	_	_	_	_	_
+13	yayılmış	_	_	VERB	_	_	_	_	_
+14	vaziyette	_	_	ADV	_	_	_	_	_
+15	olup	_	_	VERB	_	_	_	_	_
+16	ölümünden	_	_	NOUN	_	_	_	_	_
+17	sonra	_	_	ADV	_	_	_	_	_
+18	,	_	_	PUNCT	_	_	_	_	_
+19	oğulları	_	_	NOUN	_	_	_	_	_
+20	ve	_	_	SCONJ	_	_	_	_	_
+21	torunları	_	_	NOUN	_	_	_	_	_
+22	döneminde	_	_	NOUN	_	_	_	_	_
+23	daha	_	_	ADV	_	_	_	_	_
+24	da	_	_	ADV	_	_	_	_	_
+25	genişleyerek	_	_	VERB	_	_	_	_	_
+26	,	_	_	_	PUNCT	_	_	_	_
+27	insanlık	_	_	NOUN	_	_	_	_	_
+28	tarihinin	_	_	NOUN	_	_	_	_	_
+29	gördüğü	_	_	VERB	_	_	_	_	_
+30	bitişik	_	_	ADV	_	_	_	_	_
+31	sınırlara	_	_	NOUN	_	_	_	_	_
+32	sahip	_	_	ADV	_	_	_	_	_
+33	en	_	_	ADV	_	_	_	_	_
+34	büyük	_	_	ADJ	_	_	_	_	_
+35	imparatorluk	_	_	NOUN	_	_	_	_	_
+36	haline	_	_	NOUN	_	_	_	_	_
+37	geldi.	_	_	VERB	_	_	_	_	_
+# sent_id = 8
+# text = Cengiz Han'ın ataları ve kökleri.
+
+1	Cengiz	_	_	PROPN	_	_	_	_	_
+2	Han'ın	_	_	PROPN	_	_	_	_	_
+3	ataları	_	_	NOUN	_	_	_	_	_
+4	ve	_	_	SCONJ	_	_	_	_	_
+5	kökleri.	_	_	NOUN	_	_	_	_	_
+# sent_id = 9
+# text = Cengiz Han’ın şeceresi yarı mitolojik bir şekilde sis perdesi arkasındadır.
+
+1	Cengiz	_	_	PROPN	_	_	_	_	_
+2	Han’ın	_	_	PROPN	_	_	_	_	_
+3	şeceresi	_	_	ADJ	_	_	_	_	_
+4	yarı	_	_	ADJ	_	_	_	_	_
+5	mitolojik	_	_	NOUN	_	_	_	_	_
+6	bir	_	_	NUM	_	_	_	_	_
+7	şekilde	_	_	NOUN	_	_	_	_	_
+8	sis	_	_	ADJ	_	_	_	_	_
+9	perdesi	_	_	NOUN	_	_	_	_	_
+10	arkasındadır.	_	_	NOUN	_	_	_	_	_
+# sent_id = 10
+# text = Onun atalarının ve kendisinin doğuş efsanesi , Moğol mitolojisinin önemli belgelerindendir.
+
+1	Onun	_	_	PROPN	_	_	_	_	_
+2	atalarının	_	_	NOUN	_	_	_	_	_
+3	ve	_	_	SCONJ	_	_	_	_	_
+4	kendisinin	_	_	PRON	_	_	_	_	_
+5	doğuş	_	_	ADJ	_	_	_	_	_
+6	efsanesi	_	_	NOUN	_	_	_	_	_
+7	,	_	_	PUNCT	_	_	_	_	_
+8	Moğol	_	_	PROPN	_	_	_	_	_
+9	mitolojisinin	_	_	NOUN	_	_	_	_	_
+10	önemli	_	_	ADJ	_	_	_	_	_
+11	belgelerindendir.	_	_	VERB	_	_	_	_	_
+# sent_id = 11
+# text = Yazılış tarihi itibarı ile Cengiz Han’ın yaşadığı döneme en yakın olanı Şamanizm etkilerinin görüldüğü , 1240 yılında Moğolca olarak kaleme alınmış olan Moğolların Gizli Tarihi adlı esere göre Cengiz Han’dan 10 nesil önce yaşayan Alangoya , Cengiz Han soyunun efsanevi büyük annesi olarak kabul edilmiştir.
+
+1	Yazılış	_	_	_	_	_	_	_	_
+2	tarihi	_	_	_	_	_	_	_	_
+3	itibarı	_	_	_	_	_	_	_	_
+4	ile	_	_	_	_	_	_	_	_
+5	Cengiz	_	_	_	_	_	_	_	_
+6	Han’ın	_	_	_	_	_	_	_	_
+7	yaşadığı	_	_	_	_	_	_	_	_
+8	döneme	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	yakın	_	_	_	_	_	_	_	_
+11	olanı	_	_	_	_	_	_	_	_
+12	Şamanizm	_	_	_	_	_	_	_	_
+13	etkilerinin	_	_	_	_	_	_	_	_
+14	görüldüğü	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	1240	_	_	_	_	_	_	_	_
+17	yılında	_	_	_	_	_	_	_	_
+18	Moğolca	_	_	_	_	_	_	_	_
+19	olarak	_	_	_	_	_	_	_	_
+20	kaleme	_	_	_	_	_	_	_	_
+21	alınmış	_	_	_	_	_	_	_	_
+22	olan	_	_	_	_	_	_	_	_
+23	Moğolların	_	_	_	_	_	_	_	_
+24	Gizli	_	_	_	_	_	_	_	_
+25	Tarihi	_	_	_	_	_	_	_	_
+26	adlı	_	_	_	_	_	_	_	_
+27	esere	_	_	_	_	_	_	_	_
+28	göre	_	_	_	_	_	_	_	_
+29	Cengiz	_	_	_	_	_	_	_	_
+30	Han’dan	_	_	_	_	_	_	_	_
+31	10	_	_	_	_	_	_	_	_
+32	nesil	_	_	_	_	_	_	_	_
+33	önce	_	_	_	_	_	_	_	_
+34	yaşayan	_	_	_	_	_	_	_	_
+35	Alangoya	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	Cengiz	_	_	_	_	_	_	_	_
+38	Han	_	_	_	_	_	_	_	_
+39	soyunun	_	_	_	_	_	_	_	_
+40	efsanevi	_	_	_	_	_	_	_	_
+41	büyük	_	_	_	_	_	_	_	_
+42	annesi	_	_	_	_	_	_	_	_
+43	olarak	_	_	_	_	_	_	_	_
+44	kabul	_	_	_	_	_	_	_	_
+45	edilmiştir.	_	_	_	_	_	_	_	_
+# sent_id = 12
+# text = Moğolların Gizli Tarihinde yer alan efsaneye göre Alangoya dul kaldıktan sonra evlenmediği halde üç oğlu daha olmuştur.
+
+1	Moğolların	_	_	_	_	_	_	_	_
+2	Gizli	_	_	_	_	_	_	_	_
+3	Tarihinde	_	_	_	_	_	_	_	_
+4	yer	_	_	_	_	_	_	_	_
+5	alan	_	_	_	_	_	_	_	_
+6	efsaneye	_	_	_	_	_	_	_	_
+7	göre	_	_	_	_	_	_	_	_
+8	Alangoya	_	_	_	_	_	_	_	_
+9	dul	_	_	_	_	_	_	_	_
+10	kaldıktan	_	_	_	_	_	_	_	_
+11	sonra	_	_	_	_	_	_	_	_
+12	evlenmediği	_	_	_	_	_	_	_	_
+13	halde	_	_	_	_	_	_	_	_
+14	üç	_	_	_	_	_	_	_	_
+15	oğlu	_	_	_	_	_	_	_	_
+16	daha	_	_	_	_	_	_	_	_
+17	olmuştur.	_	_	_	_	_	_	_	_
+# sent_id = 13
+# text = Cengiz Han ve onun mensup olduğu Börçiginler bu çocuklardan “Bodoncar” adlı en küçük olanının soyundan gelmektedir.
+
+1	Cengiz	_	_	_	_	_	_	_	_
+2	Han	_	_	_	_	_	_	_	_
+3	ve	_	_	_	_	_	_	_	_
+4	onun	_	_	_	_	_	_	_	_
+5	mensup	_	_	_	_	_	_	_	_
+6	olduğu	_	_	_	_	_	_	_	_
+7	Börçiginler	_	_	_	_	_	_	_	_
+8	bu	_	_	_	_	_	_	_	_
+9	çocuklardan	_	_	_	_	_	_	_	_
+10	“Bodoncar”	_	_	_	_	_	_	_	_
+11	adlı	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	küçük	_	_	_	_	_	_	_	_
+14	olanının	_	_	_	_	_	_	_	_
+15	soyundan	_	_	_	_	_	_	_	_
+16	gelmektedir.	_	_	_	_	_	_	_	_
+# sent_id = 14
+# text = Alangoya efsanesi yalnızca Cengiz Han’ı değil onunla birlikte “Nirun” yani ışığın çocukları adı verilen bir yığın boyu ilgilendirse de Cengiz Han soyunun en büyük efsanesi olarak kabul edilmiştir.
+
+1	Alangoya	_	_	_	_	_	_	_	_
+2	efsanesi	_	_	_	_	_	_	_	_
+3	yalnızca	_	_	_	_	_	_	_	_
+4	Cengiz	_	_	_	_	_	_	_	_
+5	Han’ı	_	_	_	_	_	_	_	_
+6	değil	_	_	_	_	_	_	_	_
+7	onunla	_	_	_	_	_	_	_	_
+8	birlikte	_	_	_	_	_	_	_	_
+9	“Nirun”	_	_	_	_	_	_	_	_
+10	yani	_	_	_	_	_	_	_	_
+11	ışığın	_	_	_	_	_	_	_	_
+12	çocukları	_	_	_	_	_	_	_	_
+13	adı	_	_	_	_	_	_	_	_
+14	verilen	_	_	_	_	_	_	_	_
+15	bir	_	_	_	_	_	_	_	_
+16	yığın	_	_	_	_	_	_	_	_
+17	boyu	_	_	_	_	_	_	_	_
+18	ilgilendirse	_	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	_
+20	Cengiz	_	_	_	_	_	_	_	_
+21	Han	_	_	_	_	_	_	_	_
+22	soyunun	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	büyük	_	_	_	_	_	_	_	_
+25	efsanesi	_	_	_	_	_	_	_	_
+26	olarak	_	_	_	_	_	_	_	_
+27	kabul	_	_	_	_	_	_	_	_
+28	edilmiştir.	_	_	_	_	_	_	_	_
+# sent_id = 15
+# text = Nirun boylarından öncelikle Cengiz Han’ın boyu Borciginler ardından Tayciutlar , Barlaslar , Derbenler , Salciutlar ve başka birkaç boy daha sayılabilir.
+1140 yılında Moğol kabilelerinden Börçiginlere mensup Kabul , bütün Moğolların ilk lideri olarak “Han” unvanını almıştır.
+
+1	Nirun	_	_	_	_	_	_	_	_
+2	boylarından	_	_	_	_	_	_	_	_
+3	öncelikle	_	_	_	_	_	_	_	_
+4	Cengiz	_	_	_	_	_	_	_	_
+5	Han’ın	_	_	_	_	_	_	_	_
+6	boyu	_	_	_	_	_	_	_	_
+7	Borciginler	_	_	_	_	_	_	_	_
+8	ardından	_	_	_	_	_	_	_	_
+9	Tayciutlar	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Barlaslar	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Derbenler	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Salciutlar	_	_	_	_	_	_	_	_
+16	ve	_	_	_	_	_	_	_	_
+17	başka	_	_	_	_	_	_	_	_
+18	birkaç	_	_	_	_	_	_	_	_
+19	boy	_	_	_	_	_	_	_	_
+20	daha	_	_	_	_	_	_	_	_
+21	sayılabilir.
+1140	_	_	_	_	_	_	_	_
+22	yılında	_	_	_	_	_	_	_	_
+23	Moğol	_	_	_	_	_	_	_	_
+24	kabilelerinden	_	_	_	_	_	_	_	_
+25	Börçiginlere	_	_	_	_	_	_	_	_
+26	mensup	_	_	_	_	_	_	_	_
+27	Kabul	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	bütün	_	_	_	_	_	_	_	_
+30	Moğolların	_	_	_	_	_	_	_	_
+31	ilk	_	_	_	_	_	_	_	_
+32	lideri	_	_	_	_	_	_	_	_
+33	olarak	_	_	_	_	_	_	_	_
+34	“Han”	_	_	_	_	_	_	_	_
+35	unvanını	_	_	_	_	_	_	_	_
+36	almıştır.	_	_	_	_	_	_	_	_
+# sent_id = 16
+# text = Cengiz Han’ın babası Yesügey Bahadır onun torunudur.
+
+1	Cengiz	_	_	_	_	_	_	_	_
+2	Han’ın	_	_	_	_	_	_	_	_
+3	babası	_	_	_	_	_	_	_	_
+4	Yesügey	_	_	_	_	_	_	_	_
+5	Bahadır	_	_	_	_	_	_	_	_
+6	onun	_	_	_	_	_	_	_	_
+7	torunudur.	_	_	_	_	_	_	_	_
+# sent_id = 17
+# text = Kabul Han ve onun halefi Ambakay Han zamanında Moğollar , Çin'deki Jin İmparatorluğu ile mücadele edecek kadar kuvvetlenseler de Tatarlar , Çinlleri hoşnut etmek için Ambakay’ı Çin’e teslim ettiler.
+
+1	Kabul	_	_	_	_	_	_	_	_
+2	Han	_	_	_	_	_	_	_	_
+3	ve	_	_	_	_	_	_	_	_
+4	onun	_	_	_	_	_	_	_	_
+5	halefi	_	_	_	_	_	_	_	_
+6	Ambakay	_	_	_	_	_	_	_	_
+7	Han	_	_	_	_	_	_	_	_
+8	zamanında	_	_	_	_	_	_	_	_
+9	Moğollar	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Çin'deki	_	_	_	_	_	_	_	_
+12	Jin	_	_	_	_	_	_	_	_
+13	İmparatorluğu	_	_	_	_	_	_	_	_
+14	ile	_	_	_	_	_	_	_	_
+15	mücadele	_	_	_	_	_	_	_	_
+16	edecek	_	_	_	_	_	_	_	_
+17	kadar	_	_	_	_	_	_	_	_
+18	kuvvetlenseler	_	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	_
+20	Tatarlar	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	Çinlleri	_	_	_	_	_	_	_	_
+23	hoşnut	_	_	_	_	_	_	_	_
+24	etmek	_	_	_	_	_	_	_	_
+25	için	_	_	_	_	_	_	_	_
+26	Ambakay’ı	_	_	_	_	_	_	_	_
+27	Çin’e	_	_	_	_	_	_	_	_
+28	teslim	_	_	_	_	_	_	_	_
+29	ettiler.	_	_	_	_	_	_	_	_
+# sent_id = 18
+# text = Ambakay hiç alışılmadık bir şekilde , “tahta eşek şekli” denen bir duruma sokularak çarmıha gerilip infaz edildi.
+
+1	Ambakay	_	_	_	_	_	_	_	_
+2	hiç	_	_	_	_	_	_	_	_
+3	alışılmadık	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	şekilde	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	“tahta	_	_	_	_	_	_	_	_
+8	eşek	_	_	_	_	_	_	_	_
+9	şekli”	_	_	_	_	_	_	_	_
+10	denen	_	_	_	_	_	_	_	_
+11	bir	_	_	_	_	_	_	_	_
+12	duruma	_	_	_	_	_	_	_	_
+13	sokularak	_	_	_	_	_	_	_	_
+14	çarmıha	_	_	_	_	_	_	_	_
+15	gerilip	_	_	_	_	_	_	_	_
+16	infaz	_	_	_	_	_	_	_	_
+17	edildi.	_	_	_	_	_	_	_	_
+# sent_id = 19
+# text = Cengiz Han’ın büyük amacası Kutua , bu hakarete Çin üzerine ve Tatarlara bir dizi saldırı düzenleyerek cevap verdi ve bu akınlar sonunda “Moğol Herkülü” unvanını kazandı.
+
+1	Cengiz	_	_	_	_	_	_	_	_
+2	Han’ın	_	_	_	_	_	_	_	_
+3	büyük	_	_	_	_	_	_	_	_
+4	amacası	_	_	_	_	_	_	_	_
+5	Kutua	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	bu	_	_	_	_	_	_	_	_
+8	hakarete	_	_	_	_	_	_	_	_
+9	Çin	_	_	_	_	_	_	_	_
+10	üzerine	_	_	_	_	_	_	_	_
+11	ve	_	_	_	_	_	_	_	_
+12	Tatarlara	_	_	_	_	_	_	_	_
+13	bir	_	_	_	_	_	_	_	_
+14	dizi	_	_	_	_	_	_	_	_
+15	saldırı	_	_	_	_	_	_	_	_
+16	düzenleyerek	_	_	_	_	_	_	_	_
+17	cevap	_	_	_	_	_	_	_	_
+18	verdi	_	_	_	_	_	_	_	_
+19	ve	_	_	_	_	_	_	_	_
+20	bu	_	_	_	_	_	_	_	_
+21	akınlar	_	_	_	_	_	_	_	_
+22	sonunda	_	_	_	_	_	_	_	_
+23	“Moğol	_	_	_	_	_	_	_	_
+24	Herkülü”	_	_	_	_	_	_	_	_
+25	unvanını	_	_	_	_	_	_	_	_
+26	kazandı.	_	_	_	_	_	_	_	_
+# sent_id = 20
+# text = Fakat , 1160 yılında , detayları bilinmeyen bir dizi olay sonunda , Kuzey Çin’in hakimi Jin Hanedanı , Moğolları hezimete uğrattı.
+
+1	Fakat	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	1160	_	_	_	_	_	_	_	_
+4	yılında	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	detayları	_	_	_	_	_	_	_	_
+7	bilinmeyen	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	dizi	_	_	_	_	_	_	_	_
+10	olay	_	_	_	_	_	_	_	_
+11	sonunda	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Kuzey	_	_	_	_	_	_	_	_
+14	Çin’in	_	_	_	_	_	_	_	_
+15	hakimi	_	_	_	_	_	_	_	_
+16	Jin	_	_	_	_	_	_	_	_
+17	Hanedanı	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	Moğolları	_	_	_	_	_	_	_	_
+20	hezimete	_	_	_	_	_	_	_	_
+21	uğrattı.	_	_	_	_	_	_	_	_
+# sent_id = 21
+# text = Moğollar bir süre karmaşa içinde dağıldılar.
+
+1	Moğollar	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	süre	_	_	_	_	_	_	_	_
+4	karmaşa	_	_	_	_	_	_	_	_
+5	içinde	_	_	_	_	_	_	_	_
+6	dağıldılar.	_	_	_	_	_	_	_	_
+# sent_id = 22
+# text = Sefalet içinde yüzen bu karmaşık haldeki Moğollar’ın içerisindeki önemsiz liderlerden biri olan Kabul Han'ın torunu Yesügey Bahadır , ittifaklar kurarak Moğolları güçlendirmeye çalıştı.
+
+1	Sefalet	_	_	_	_	_	_	_	_
+2	içinde	_	_	_	_	_	_	_	_
+3	yüzen	_	_	_	_	_	_	_	_
+4	bu	_	_	_	_	_	_	_	_
+5	karmaşık	_	_	_	_	_	_	_	_
+6	haldeki	_	_	_	_	_	_	_	_
+7	Moğollar’ın	_	_	_	_	_	_	_	_
+8	içerisindeki	_	_	_	_	_	_	_	_
+9	önemsiz	_	_	_	_	_	_	_	_
+10	liderlerden	_	_	_	_	_	_	_	_
+11	biri	_	_	_	_	_	_	_	_
+12	olan	_	_	_	_	_	_	_	_
+13	Kabul	_	_	_	_	_	_	_	_
+14	Han'ın	_	_	_	_	_	_	_	_
+15	torunu	_	_	_	_	_	_	_	_
+16	Yesügey	_	_	_	_	_	_	_	_
+17	Bahadır	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ittifaklar	_	_	_	_	_	_	_	_
+20	kurarak	_	_	_	_	_	_	_	_
+21	Moğolları	_	_	_	_	_	_	_	_
+22	güçlendirmeye	_	_	_	_	_	_	_	_
+23	çalıştı.	_	_	_	_	_	_	_	_
+# sent_id = 23
+# text = Moğolların batı komşularından biri olan Türk boylarından Keraitler idi.
+
+1	Moğolların	_	_	_	_	_	_	_	_
+2	batı	_	_	_	_	_	_	_	_
+3	komşularından	_	_	_	_	_	_	_	_
+4	biri	_	_	_	_	_	_	_	_
+5	olan	_	_	_	_	_	_	_	_
+6	Türk	_	_	_	_	_	_	_	_
+7	boylarından	_	_	_	_	_	_	_	_
+8	Keraitler	_	_	_	_	_	_	_	_
+9	idi.	_	_	_	_	_	_	_	_
+# sent_id = 24
+# text = Keraitler 200 yıldan beri Nasturi Hıristiyan’dı.
+
+1	Keraitler	_	_	_	_	_	_	_	_
+2	200	_	_	_	_	_	_	_	_
+3	yıldan	_	_	_	_	_	_	_	_
+4	beri	_	_	_	_	_	_	_	_
+5	Nasturi	_	_	_	_	_	_	_	_
+6	Hıristiyan’dı.	_	_	_	_	_	_	_	_
+# sent_id = 25
+# text = Hıristiyan Keraitlerin o zamanki lideri Tuğrul idi.
+
+1	Hıristiyan	_	_	_	_	_	_	_	_
+2	Keraitlerin	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	zamanki	_	_	_	_	_	_	_	_
+5	lideri	_	_	_	_	_	_	_	_
+6	Tuğrul	_	_	_	_	_	_	_	_
+7	idi.	_	_	_	_	_	_	_	_
+# sent_id = 26
+# text = Tuğrul , 1160 yılında iç meseleler sonucu tahtını kaybetmişti.
+
+1	Tuğrul	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	1160	_	_	_	_	_	_	_	_
+4	yılında	_	_	_	_	_	_	_	_
+5	iç	_	_	_	_	_	_	_	_
+6	meseleler	_	_	_	_	_	_	_	_
+7	sonucu	_	_	_	_	_	_	_	_
+8	tahtını	_	_	_	_	_	_	_	_
+9	kaybetmişti.	_	_	_	_	_	_	_	_
+# sent_id = 27
+# text = Moğolların lideri Yesügey , Tuğrula kabilesinin önderliğini yeniden ele geçirmesi için yardım etti.
+
+1	Moğolların	_	_	_	_	_	_	_	_
+2	lideri	_	_	_	_	_	_	_	_
+3	Yesügey	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Tuğrula	_	_	_	_	_	_	_	_
+6	kabilesinin	_	_	_	_	_	_	_	_
+7	önderliğini	_	_	_	_	_	_	_	_
+8	yeniden	_	_	_	_	_	_	_	_
+9	ele	_	_	_	_	_	_	_	_
+10	geçirmesi	_	_	_	_	_	_	_	_
+11	için	_	_	_	_	_	_	_	_
+12	yardım	_	_	_	_	_	_	_	_
+13	etti.	_	_	_	_	_	_	_	_
+# sent_id = 28
+# text = Tuğrul ve Yesügey anda ile kardeşilik yemini ettikten sonra , daha sonraları Moğolların yeniden ortaya çıkışında olağanüstü önem taşıdığını kanıtlayacak olan bir ittifak kurdular.
+
+1	Tuğrul	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	Yesügey	_	_	_	_	_	_	_	_
+4	anda	_	_	_	_	_	_	_	_
+5	ile	_	_	_	_	_	_	_	_
+6	kardeşilik	_	_	_	_	_	_	_	_
+7	yemini	_	_	_	_	_	_	_	_
+8	ettikten	_	_	_	_	_	_	_	_
+9	sonra	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	daha	_	_	_	_	_	_	_	_
+12	sonraları	_	_	_	_	_	_	_	_
+13	Moğolların	_	_	_	_	_	_	_	_
+14	yeniden	_	_	_	_	_	_	_	_
+15	ortaya	_	_	_	_	_	_	_	_
+16	çıkışında	_	_	_	_	_	_	_	_
+17	olağanüstü	_	_	_	_	_	_	_	_
+18	önem	_	_	_	_	_	_	_	_
+19	taşıdığını	_	_	_	_	_	_	_	_
+20	kanıtlayacak	_	_	_	_	_	_	_	_
+21	olan	_	_	_	_	_	_	_	_
+22	bir	_	_	_	_	_	_	_	_
+23	ittifak	_	_	_	_	_	_	_	_
+24	kurdular.	_	_	_	_	_	_	_	_
+# sent_id = 29
+# text = Rivayetlere ve efsaneye göre Yesügey Bahadır bir gün Onon nehri kıyılarında şahini ile avlanırken gelinleri taşımak için özel olarak tahsis edilmiş , bir at arabasına rastladı.
+
+1	Rivayetlere	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	efsaneye	_	_	_	_	_	_	_	_
+4	göre	_	_	_	_	_	_	_	_
+5	Yesügey	_	_	_	_	_	_	_	_
+6	Bahadır	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	gün	_	_	_	_	_	_	_	_
+9	Onon	_	_	_	_	_	_	_	_
+10	nehri	_	_	_	_	_	_	_	_
+11	kıyılarında	_	_	_	_	_	_	_	_
+12	şahini	_	_	_	_	_	_	_	_
+13	ile	_	_	_	_	_	_	_	_
+14	avlanırken	_	_	_	_	_	_	_	_
+15	gelinleri	_	_	_	_	_	_	_	_
+16	taşımak	_	_	_	_	_	_	_	_
+17	için	_	_	_	_	_	_	_	_
+18	özel	_	_	_	_	_	_	_	_
+19	olarak	_	_	_	_	_	_	_	_
+20	tahsis	_	_	_	_	_	_	_	_
+21	edilmiş	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	bir	_	_	_	_	_	_	_	_
+24	at	_	_	_	_	_	_	_	_
+25	arabasına	_	_	_	_	_	_	_	_
+26	rastladı.	_	_	_	_	_	_	_	_
+# sent_id = 30
+# text = Yesügey , arabanda oturan kıza ilk görüşte aşık olmuştu.
+
+1	Yesügey	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	arabanda	_	_	_	_	_	_	_	_
+4	oturan	_	_	_	_	_	_	_	_
+5	kıza	_	_	_	_	_	_	_	_
+6	ilk	_	_	_	_	_	_	_	_
+7	görüşte	_	_	_	_	_	_	_	_
+8	aşık	_	_	_	_	_	_	_	_
+9	olmuştu.	_	_	_	_	_	_	_	_
+# sent_id = 31
+# text = Yesügey iki kardeşini yanına alarak ve birlikte ağır ağır giden düğün arabasına yetiştiler.
+Üç kardeş Onggirat boyunun Olkunat kabilesinden olan Höelin adındaki yeni evli gelini yakaladılar.
+
+1	Yesügey	_	_	_	_	_	_	_	_
+2	iki	_	_	_	_	_	_	_	_
+3	kardeşini	_	_	_	_	_	_	_	_
+4	yanına	_	_	_	_	_	_	_	_
+5	alarak	_	_	_	_	_	_	_	_
+6	ve	_	_	_	_	_	_	_	_
+7	birlikte	_	_	_	_	_	_	_	_
+8	ağır	_	_	_	_	_	_	_	_
+9	ağır	_	_	_	_	_	_	_	_
+10	giden	_	_	_	_	_	_	_	_
+11	düğün	_	_	_	_	_	_	_	_
+12	arabasına	_	_	_	_	_	_	_	_
+13	yetiştiler.
+Üç	_	_	_	_	_	_	_	_
+14	kardeş	_	_	_	_	_	_	_	_
+15	Onggirat	_	_	_	_	_	_	_	_
+16	boyunun	_	_	_	_	_	_	_	_
+17	Olkunat	_	_	_	_	_	_	_	_
+18	kabilesinden	_	_	_	_	_	_	_	_
+19	olan	_	_	_	_	_	_	_	_
+20	Höelin	_	_	_	_	_	_	_	_
+21	adındaki	_	_	_	_	_	_	_	_
+22	yeni	_	_	_	_	_	_	_	_
+23	evli	_	_	_	_	_	_	_	_
+24	gelini	_	_	_	_	_	_	_	_
+25	yakaladılar.	_	_	_	_	_	_	_	_
+# sent_id = 32
+# text = Höelin başke seçme şansı olmadığı için Yesügey Bahadır’ı yeni kocası olarak kabullendi.
+
+1	Höelin	_	_	_	_	_	_	_	_
+2	başke	_	_	_	_	_	_	_	_
+3	seçme	_	_	_	_	_	_	_	_
+4	şansı	_	_	_	_	_	_	_	_
+5	olmadığı	_	_	_	_	_	_	_	_
+6	için	_	_	_	_	_	_	_	_
+7	Yesügey	_	_	_	_	_	_	_	_
+8	Bahadır’ı	_	_	_	_	_	_	_	_
+9	yeni	_	_	_	_	_	_	_	_
+10	kocası	_	_	_	_	_	_	_	_
+11	olarak	_	_	_	_	_	_	_	_
+12	kabullendi.	_	_	_	_	_	_	_	_
+# sent_id = 33
+# text = Yesügey onunla , doğurduğu oğlan bir kahraman olacak diyerek evlenmişti.
+
+1	Yesügey	_	_	_	_	_	_	_	_
+2	onunla	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	doğurduğu	_	_	_	_	_	_	_	_
+5	oğlan	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	kahraman	_	_	_	_	_	_	_	_
+8	olacak	_	_	_	_	_	_	_	_
+9	diyerek	_	_	_	_	_	_	_	_
+10	evlenmişti.	_	_	_	_	_	_	_	_
+# sent_id = 34
+# text = Doğumu.
+
+1	Doğumu.	_	_	_	_	_	_	_	_
+# sent_id = 35
+# text = Evlilikten bir süre sonra Yesügey , Tatarlar üzerine yaptığı bir akından geri döndüğünde , Höelin kocasını hamile olduğu haberiyle karşıladı.
+
+1	Evlilikten	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	süre	_	_	_	_	_	_	_	_
+4	sonra	_	_	_	_	_	_	_	_
+5	Yesügey	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Tatarlar	_	_	_	_	_	_	_	_
+8	üzerine	_	_	_	_	_	_	_	_
+9	yaptığı	_	_	_	_	_	_	_	_
+10	bir	_	_	_	_	_	_	_	_
+11	akından	_	_	_	_	_	_	_	_
+12	geri	_	_	_	_	_	_	_	_
+13	döndüğünde	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Höelin	_	_	_	_	_	_	_	_
+16	kocasını	_	_	_	_	_	_	_	_
+17	hamile	_	_	_	_	_	_	_	_
+18	olduğu	_	_	_	_	_	_	_	_
+19	haberiyle	_	_	_	_	_	_	_	_
+20	karşıladı.	_	_	_	_	_	_	_	_
+# sent_id = 36
+# text = Kaynaklarda bebeğin doğumu sırasında Höelin’in kapısına bir yay ve ok asılarak şeytanın girmesinin engellendiği ancak yakın akrabalar ve bir kadın Şamanın ebe olarak görev yaptığı ileri sürülmektedir.
+Şaman , bebeği çok yakından inceleyerek , geleceği hakkında kehanette bulunabilecek bir işaret arayacaktı.
+
+1	Kaynaklarda	_	_	_	_	_	_	_	_
+2	bebeğin	_	_	_	_	_	_	_	_
+3	doğumu	_	_	_	_	_	_	_	_
+4	sırasında	_	_	_	_	_	_	_	_
+5	Höelin’in	_	_	_	_	_	_	_	_
+6	kapısına	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	yay	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	ok	_	_	_	_	_	_	_	_
+11	asılarak	_	_	_	_	_	_	_	_
+12	şeytanın	_	_	_	_	_	_	_	_
+13	girmesinin	_	_	_	_	_	_	_	_
+14	engellendiği	_	_	_	_	_	_	_	_
+15	ancak	_	_	_	_	_	_	_	_
+16	yakın	_	_	_	_	_	_	_	_
+17	akrabalar	_	_	_	_	_	_	_	_
+18	ve	_	_	_	_	_	_	_	_
+19	bir	_	_	_	_	_	_	_	_
+20	kadın	_	_	_	_	_	_	_	_
+21	Şamanın	_	_	_	_	_	_	_	_
+22	ebe	_	_	_	_	_	_	_	_
+23	olarak	_	_	_	_	_	_	_	_
+24	görev	_	_	_	_	_	_	_	_
+25	yaptığı	_	_	_	_	_	_	_	_
+26	ileri	_	_	_	_	_	_	_	_
+27	sürülmektedir.
+Şaman	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	bebeği	_	_	_	_	_	_	_	_
+30	çok	_	_	_	_	_	_	_	_
+31	yakından	_	_	_	_	_	_	_	_
+32	inceleyerek	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	geleceği	_	_	_	_	_	_	_	_
+35	hakkında	_	_	_	_	_	_	_	_
+36	kehanette	_	_	_	_	_	_	_	_
+37	bulunabilecek	_	_	_	_	_	_	_	_
+38	bir	_	_	_	_	_	_	_	_
+39	işaret	_	_	_	_	_	_	_	_
+40	arayacaktı.	_	_	_	_	_	_	_	_
+# sent_id = 37
+# text = Efsaneye göre sağ avucunun içinde sonraları gayet doğal olarak , gücün ve çok kan dökeceğinin simgesi olarak nitelendirilecek aşık kemiği şeklinde bir kan pıhtısı ile doğdu.
+
+1	Efsaneye	_	_	_	_	_	_	_	_
+2	göre	_	_	_	_	_	_	_	_
+3	sağ	_	_	_	_	_	_	_	_
+4	avucunun	_	_	_	_	_	_	_	_
+5	içinde	_	_	_	_	_	_	_	_
+6	sonraları	_	_	_	_	_	_	_	_
+7	gayet	_	_	_	_	_	_	_	_
+8	doğal	_	_	_	_	_	_	_	_
+9	olarak	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	gücün	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	çok	_	_	_	_	_	_	_	_
+14	kan	_	_	_	_	_	_	_	_
+15	dökeceğinin	_	_	_	_	_	_	_	_
+16	simgesi	_	_	_	_	_	_	_	_
+17	olarak	_	_	_	_	_	_	_	_
+18	nitelendirilecek	_	_	_	_	_	_	_	_
+19	aşık	_	_	_	_	_	_	_	_
+20	kemiği	_	_	_	_	_	_	_	_
+21	şeklinde	_	_	_	_	_	_	_	_
+22	bir	_	_	_	_	_	_	_	_
+23	kan	_	_	_	_	_	_	_	_
+24	pıhtısı	_	_	_	_	_	_	_	_
+25	ile	_	_	_	_	_	_	_	_
+26	doğdu.	_	_	_	_	_	_	_	_
+# sent_id = 38
+# text = Yegüsey Bahadır düşman olduğu Tatar kabilelerinden birinin reisi olan Temuçin adlı bir kişiyi esir almıştı.
+İşte bu esir ve hadise üzerine Yegüsey Bahadır oğluna Temuçin adını verdi.
+
+1	Yegüsey	_	_	_	_	_	_	_	_
+2	Bahadır	_	_	_	_	_	_	_	_
+3	düşman	_	_	_	_	_	_	_	_
+4	olduğu	_	_	_	_	_	_	_	_
+5	Tatar	_	_	_	_	_	_	_	_
+6	kabilelerinden	_	_	_	_	_	_	_	_
+7	birinin	_	_	_	_	_	_	_	_
+8	reisi	_	_	_	_	_	_	_	_
+9	olan	_	_	_	_	_	_	_	_
+10	Temuçin	_	_	_	_	_	_	_	_
+11	adlı	_	_	_	_	_	_	_	_
+12	bir	_	_	_	_	_	_	_	_
+13	kişiyi	_	_	_	_	_	_	_	_
+14	esir	_	_	_	_	_	_	_	_
+15	almıştı.
+İşte	_	_	_	_	_	_	_	_
+16	bu	_	_	_	_	_	_	_	_
+17	esir	_	_	_	_	_	_	_	_
+18	ve	_	_	_	_	_	_	_	_
+19	hadise	_	_	_	_	_	_	_	_
+20	üzerine	_	_	_	_	_	_	_	_
+21	Yegüsey	_	_	_	_	_	_	_	_
+22	Bahadır	_	_	_	_	_	_	_	_
+23	oğluna	_	_	_	_	_	_	_	_
+24	Temuçin	_	_	_	_	_	_	_	_
+25	adını	_	_	_	_	_	_	_	_
+26	verdi.	_	_	_	_	_	_	_	_
+# sent_id = 39
+# text = Temuçin , katı , sağlam , sert , dayanıklı ve demir gibi anlamlarına gelmektedir.
+
+1	Temuçin	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	katı	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	sağlam	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	sert	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	dayanıklı	_	_	_	_	_	_	_	_
+10	ve	_	_	_	_	_	_	_	_
+11	demir	_	_	_	_	_	_	_	_
+12	gibi	_	_	_	_	_	_	_	_
+13	anlamlarına	_	_	_	_	_	_	_	_
+14	gelmektedir.	_	_	_	_	_	_	_	_
+# sent_id = 40
+# text = Arap ve İranlı tarihçilere göre Temuçin'in doğum tarihi 26 Ocak 1155'tir.
+
+1	Arap	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	İranlı	_	_	_	_	_	_	_	_
+4	tarihçilere	_	_	_	_	_	_	_	_
+5	göre	_	_	_	_	_	_	_	_
+6	Temuçin'in	_	_	_	_	_	_	_	_
+7	doğum	_	_	_	_	_	_	_	_
+8	tarihi	_	_	_	_	_	_	_	_
+9	26	_	_	_	_	_	_	_	_
+10	Ocak	_	_	_	_	_	_	_	_
+11	1155'tir.	_	_	_	_	_	_	_	_
+# sent_id = 41
+# text = Ancak Çin kaynaklarınca Temuçin , 12 Hayvanlı Türk takvimine göre domuz yılının başında dünyaya gelmiştir.
+
+1	Ancak	_	_	_	_	_	_	_	_
+2	Çin	_	_	_	_	_	_	_	_
+3	kaynaklarınca	_	_	_	_	_	_	_	_
+4	Temuçin	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	12	_	_	_	_	_	_	_	_
+7	Hayvanlı	_	_	_	_	_	_	_	_
+8	Türk	_	_	_	_	_	_	_	_
+9	takvimine	_	_	_	_	_	_	_	_
+10	göre	_	_	_	_	_	_	_	_
+11	domuz	_	_	_	_	_	_	_	_
+12	yılının	_	_	_	_	_	_	_	_
+13	başında	_	_	_	_	_	_	_	_
+14	dünyaya	_	_	_	_	_	_	_	_
+15	gelmiştir.	_	_	_	_	_	_	_	_
+# sent_id = 42
+# text = Bu hesapla 12 Hayvanlı Türk Takviminde 1 yıl 12 yılı kapsadığı için 1155 ile 1167 arasında sonu 2 ile biten bütün senelerden yola çıkarak doğum tarihinin 1162 olabileceği kabul edilmektedir.
+
+1	Bu	_	_	_	_	_	_	_	_
+2	hesapla	_	_	_	_	_	_	_	_
+3	12	_	_	_	_	_	_	_	_
+4	Hayvanlı	_	_	_	_	_	_	_	_
+5	Türk	_	_	_	_	_	_	_	_
+6	Takviminde	_	_	_	_	_	_	_	_
+7	1	_	_	_	_	_	_	_	_
+8	yıl	_	_	_	_	_	_	_	_
+9	12	_	_	_	_	_	_	_	_
+10	yılı	_	_	_	_	_	_	_	_
+11	kapsadığı	_	_	_	_	_	_	_	_
+12	için	_	_	_	_	_	_	_	_
+13	1155	_	_	_	_	_	_	_	_
+14	ile	_	_	_	_	_	_	_	_
+15	1167	_	_	_	_	_	_	_	_
+16	arasında	_	_	_	_	_	_	_	_
+17	sonu	_	_	_	_	_	_	_	_
+18	2	_	_	_	_	_	_	_	_
+19	ile	_	_	_	_	_	_	_	_
+20	biten	_	_	_	_	_	_	_	_
+21	bütün	_	_	_	_	_	_	_	_
+22	senelerden	_	_	_	_	_	_	_	_
+23	yola	_	_	_	_	_	_	_	_
+24	çıkarak	_	_	_	_	_	_	_	_
+25	doğum	_	_	_	_	_	_	_	_
+26	tarihinin	_	_	_	_	_	_	_	_
+27	1162	_	_	_	_	_	_	_	_
+28	olabileceği	_	_	_	_	_	_	_	_
+29	kabul	_	_	_	_	_	_	_	_
+30	edilmektedir.	_	_	_	_	_	_	_	_
+# sent_id = 43
+# text = Uzmanlar Temuçin’in doğum tarihini nasıl kanıtlamaya çalışıyorlarsa doğum yerinin de kesin olarak nerede olduğunu tartışmaktalar.
+
+1	Uzmanlar	_	_	_	_	_	_	_	_
+2	Temuçin’in	_	_	_	_	_	_	_	_
+3	doğum	_	_	_	_	_	_	_	_
+4	tarihini	_	_	_	_	_	_	_	_
+5	nasıl	_	_	_	_	_	_	_	_
+6	kanıtlamaya	_	_	_	_	_	_	_	_
+7	çalışıyorlarsa	_	_	_	_	_	_	_	_
+8	doğum	_	_	_	_	_	_	_	_
+9	yerinin	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	kesin	_	_	_	_	_	_	_	_
+12	olarak	_	_	_	_	_	_	_	_
+13	nerede	_	_	_	_	_	_	_	_
+14	olduğunu	_	_	_	_	_	_	_	_
+15	tartışmaktalar.	_	_	_	_	_	_	_	_
+# sent_id = 44
+# text = Cengiz Han zamanından günümüze kalan tek kaynak olan “Moğolların Gizli Tarihi” adlı eserde bu yerin Onon yakınlarında Dülün-Boldak adıyla bilinen bölge olduğu yazmaktadır.
+
+1	Cengiz	_	_	_	_	_	_	_	_
+2	Han	_	_	_	_	_	_	_	_
+3	zamanından	_	_	_	_	_	_	_	_
+4	günümüze	_	_	_	_	_	_	_	_
+5	kalan	_	_	_	_	_	_	_	_
+6	tek	_	_	_	_	_	_	_	_
+7	kaynak	_	_	_	_	_	_	_	_
+8	olan	_	_	_	_	_	_	_	_
+9	“Moğolların	_	_	_	_	_	_	_	_
+10	Gizli	_	_	_	_	_	_	_	_
+11	Tarihi”	_	_	_	_	_	_	_	_
+12	adlı	_	_	_	_	_	_	_	_
+13	eserde	_	_	_	_	_	_	_	_
+14	bu	_	_	_	_	_	_	_	_
+15	yerin	_	_	_	_	_	_	_	_
+16	Onon	_	_	_	_	_	_	_	_
+17	yakınlarında	_	_	_	_	_	_	_	_
+18	Dülün-Boldak	_	_	_	_	_	_	_	_
+19	adıyla	_	_	_	_	_	_	_	_
+20	bilinen	_	_	_	_	_	_	_	_
+21	bölge	_	_	_	_	_	_	_	_
+22	olduğu	_	_	_	_	_	_	_	_
+23	yazmaktadır.	_	_	_	_	_	_	_	_
+# sent_id = 45
+# text = Bu adın anlamı “Dalak Tepeciği” dir.
+Çocukluk ve gençlik yıllarında verdiği hayatta kalma mücadelesi.
+
+
+
+1	Bu	_	_	_	_	_	_	_	_
+2	adın	_	_	_	_	_	_	_	_
+3	anlamı	_	_	_	_	_	_	_	_
+4	“Dalak	_	_	_	_	_	_	_	_
+5	Tepeciği”	_	_	_	_	_	_	_	_
+6	dir.
+Çocukluk	_	_	_	_	_	_	_	_
+7	ve	_	_	_	_	_	_	_	_
+8	gençlik	_	_	_	_	_	_	_	_
+9	yıllarında	_	_	_	_	_	_	_	_
+10	verdiği	_	_	_	_	_	_	_	_
+11	hayatta	_	_	_	_	_	_	_	_
+12	kalma	_	_	_	_	_	_	_	_
+13	mücadelesi.
+
+	_	_	_	_	_	_	_	_

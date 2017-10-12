@@ -46,7 +46,7 @@ for sentence in sentenceList:
               
                        ''.join(chars)
                        
-              print('%d\t%s \t_\t_\t_\t_\t_\t_\t_\t_translate=%s '%(i,w,''.join(chars)))
+              print('%d\t%s \t_\t_\t_\t_\t_\t_\t_\ttranslate=%s '%(i,w,''.join(chars)))
               i=i+1
              
 

@@ -1,0 +1,506 @@
+#p	count	tag	form
+0.02	 6	 SCONJ	_
+0.35	 130	 NOUN	_
+0.00	 1	 PORPN	_
+0.13	 47	 PUNCT	_
+0.01	 2	 INTJ	_
+0.05	 17	 CCONJ	_
+0.01	 3	 PRON	_
+0.04	 14	 NUM	_
+0.11	 40	 VERB	_
+0.01	 3	 DET	_
+0.03	 13	 X	_
+0.13	 47	 PROPN	_
+0.01	 3	 ADP	_
+0.04	 15	 ADV	_
+0.02	 8	 SYM	_
+0.01	 3	 _	_
+0.06	 21	 ADJ	_
+
+1.00	 1 	PROPN	Tengiz 
+
+1.00	 1 	NOUN	bilgi 
+
+1.00	 1 	NOUN	alfabesini 
+
+1.00	 1 	VERB	kullanarak 
+
+1.00	 14 	CCONJ	ve 
+
+1.00	 1 	NOUN	din 
+
+1.00	 1 	NOUN	Bozkır 
+
+1.00	 1 	NOUN	değer 
+
+1.00	 1 	VERB	kurduğu 
+
+1.00	 1 	NOUN	Deşt-i 
+
+1.00	 2 	NOUN	sahip 
+
+1.00	 1 	X	Чингис 
+
+1.00	 1 	NOUN	ulusu 
+
+1.00	 2 	NOUN	tarihinin 
+
+1.00	 1 	VERB	uyarlatarak 
+
+1.00	 1 	ADV	uzanan 
+
+1.00	 1 	ADJ	tahrip 
+
+1.00	 1 	NOUN	istihbarat 
+
+1.00	 1 	NOUN	muaf 
+
+1.00	 1 	NOUN	kuzeyine 
+
+1.00	 1 	NOUN	sefer 
+
+1.00	 1 	DET	her 
+
+1.00	 1 	VERB	rahatsızlanarak 
+
+1.00	 4 	SYM	) 
+
+1.00	 1 	NOUN	meydana 
+
+1.00	 4 	NOUN	Moğol 
+
+1.00	 1 	PROPN	demirci 
+
+1.00	 1 	PROPN	Kafkasya'da 
+
+1.00	 1 	NOUN	Bulgarları 
+
+1.00	 1 	ADJ	olan 
+
+1.00	 8 	PUNCT	. 
+
+1.00	 2 	NOUN	teşkilatı 
+
+1.00	 1 	DET	hangi 
+
+1.00	 1 	PORPN	Pasifik 
+
+1.00	 1 	PROPN	Türkistan'daki 
+
+1.00	 1 	PROPN	Meritokratik 
+
+1.00	 1 	NOUN	temelinde 
+
+1.00	 7 	NUM	bir 
+
+1.00	 1 	VERB	olmasını 
+
+1.00	 1 	VERB	genişleyerek 
+
+1.00	 2 	PROPN	Han’ın 
+
+1.00	 2 	ADP	için 
+
+1.00	 1 	VERB	getirdi 
+
+1.00	 1 	NOUN	Okyanusu'ndan 
+
+1.00	 5 	SCONJ	ile 
+
+1.00	 1 	NOUN	bahşıları 
+
+1.00	 1 	ADJ	askeri 
+
+1.00	 1 	NOUN	kimliği 
+
+1.00	 1 	NOUN	onlu 
+
+1.00	 1 	PROPN	Horasan 
+
+1.00	 1 	VERB	topladı 
+
+1.00	 1 	NOUN	arkasındadır 
+
+1.00	 1 	NOUN	becerisi 
+
+1.00	 1 	NOUN	İmparatorluğu'nun 
+
+1.00	 1 	NOUN	yazıya 
+
+1.00	 1 	NOUN	şeceresi 
+
+1.00	 2 	ADV	olarak 
+
+1.00	 1 	NOUN	sis 
+
+1.00	 1 	PRON	o 
+
+1.00	 1 	ADJ	bitişik 
+
+1.00	 1 	NOUN	bozkır 
+
+1.00	 1 	NOUN	yer 
+
+1.00	 1 	VERB	yapılmaksızın 
+
+1.00	 2 	NUM	1227 
+
+1.00	 1 	NOUN	aralarında 
+
+1.00	 1 	VERB	yasaklayıp 
+
+1.00	 1 	VERB	kanunlaştırmıştır 
+
+1.00	 1 	NOUN	Ağustos 
+
+1.00	 1 	NOUN	olsun 
+
+1.00	 1 	VERB	edilen 
+
+1.00	 1 	NOUN	oğulları 
+
+1.00	 1 	NUM	d.1162 
+
+1.00	 1 	NOUN	insan 
+
+1.00	 1 	PRON	Onun 
+
+1.00	 1 	NOUN	geleneğinden 
+
+1.00	 1 	VERB	sağlamak 
+
+1.00	 1 	DET	bunu 
+
+1.00	 1 	PROPN	İran'daki 
+
+1.00	 1 	ADJ	siyasi 
+
+1.00	 1 	NOUN	hayatını 
+
+1.00	 1 	ADJ	belli 
+
+1.00	 1 	VERB	kurdu. 
+
+1.00	 1 	PROPN	Kıpçaklar 
+
+1.00	 1 	NOUN	dehalarından 
+
+1.00	 1 	NOUN	göçebe 
+
+1.00	 1 	NOUN	perdesi 
+
+1.00	 1 	VERB	yayılmış 
+
+1.00	 1 	NOUN	mitolojik 
+
+1.00	 12 	_	 
+
+1.00	 1 	NOUN	ülkelerden 
+
+1.00	 1 	NOUN	dinden 
+
+1.00	 1 	NOUN	halkının 
+
+1.00	 2 	ADJ	tüm 
+
+1.00	 1 	VERB	verdiği 
+
+1.00	 1 	NOUN	ağı 
+
+1.00	 1 	PROPN	Çinggis 
+
+1.00	 1 	NOUN	kurucusudur 
+
+1.00	 1 	NOUN	mitolojisinin 
+
+1.00	 1 	PUNCT	– 
+
+1.00	 1 	ADP	hariç 
+
+1.00	 1 	NOUN	ulus 
+
+1.00	 1 	PROPN	Cenghis 
+
+1.00	 1 	VERB	çıktığı 
+
+1.00	 1 	PROPN	Kara 
+
+1.00	 1 	PROPN	Tangutlar 
+
+1.00	 1 	NOUN	Rusya 
+
+1.00	 1 	NOUN	adamlarına 
+
+1.00	 1 	NOUN	topraklar 
+
+1.00	 1 	NUM	biri 
+
+1.00	 1 	VERB	gerçekleştirilen 
+
+1.00	 1 	PROPN	Orta 
+
+1.00	 1 	NUM	ö.18 
+
+1.00	 1 	VERB	gördüğü 
+
+1.00	 2 	PROPN	Çin'deki 
+
+1.00	 1 	VERB	tutulmalarını 
+
+1.00	 1 	NOUN	Batı 
+
+1.00	 1 	NOUN	ölümünden 
+
+1.00	 1 	VERB	bağlı 
+
+1.00	 1 	ADJ	eğitimli 
+
+1.00	 1 	VERB	Kurmuş 
+
+1.00	 1 	NOUN	seferler 
+
+1.00	 1 	NOUN	Uygur 
+
+1.00	 1 	NOUN	günümüzde 
+
+1.00	 1 	NOUN	işkenceyi 
+
+1.00	 1 	NOUN	Gürcüler 
+
+1.00	 1 	NOUN	saygı 
+
+1.00	 1 	PROPN	Hıtay 
+
+1.00	 2 	NOUN	Moğolca 
+
+1.00	 1 	VERB	gelen 
+
+1.00	 1 	VERB	olursa 
+
+1.00	 1 	ADJ	yarı 
+
+1.00	 1 	VERB	katledilmişti 
+
+1.00	 1 	PROPN	Karakurum’a 
+
+1.00	 1 	NOUN	ataları 
+
+1.00	 1 	INTJ	ancak 
+
+1.00	 1 	ADV	vaziyette 
+
+1.00	 1 	VERB	olup 
+
+1.00	 1 	VERB	getiren 
+
+1.00	 1 	NOUN	doğum 
+
+1.00	 1 	VERB	çağırmış 
+
+1.00	 1 	NOUN	hükümdarlığı 
+
+1.00	 1 	NOUN	deniz 
+
+1.00	 1 	NOUN	çocuklarına 
+
+1.00	 1 	PROPN	Jin 
+
+1.00	 1 	PROPN	Hanedanı 
+
+1.00	 3 	ADJ	önemli 
+
+1.00	 1 	VERB	belgelerindendir 
+
+1.00	 1 	NOUN	ün 
+
+1.00	 2 	ADV	en 
+
+1.00	 1 	NOUN	adıyla 
+
+1.00	 1 	VERB	kazanmasının 
+
+1.00	 1 	X	Xia 
+
+1.00	 1 	NOUN	Denizi’ne 
+
+1.00	 1 	NOUN	Knezlikleri 
+
+1.00	 1 	NOUN	çatısı 
+
+1.00	 1 	NOUN	sanatına 
+
+1.00	 6 	PROPN	Han 
+
+1.00	 1 	NOUN	posta 
+
+1.00	 1 	PROPN	Asya'daki 
+
+1.00	 3 	NOUN	imparatorluk 
+
+1.00	 2 	NOUN	Kuzey 
+
+1.00	 2 	SCONJ	ya 
+
+1.00	 1 	NOUN	başında 
+
+1.00	 1 	ADV	pek 
+
+1.00	 1 	VERB	kaybetti 
+
+1.00	 1 	PROPN	İdil 
+
+1.00	 1 	VERB	geldi. 
+
+1.00	 1 	PUNCT	; 
+
+1.00	 1 	NOUN	yılında 
+
+1.00	 1 	NOUN	kurallar 
+
+1.00	 4 	SYM	( 
+
+1.00	 1 	NOUN	doktorlar 
+
+1.00	 12 	PUNCT	" 
+
+1.00	 1 	PROPN	Harzemşahlar 
+
+1.00	 1 	NOUN	altında 
+
+1.00	 3 	NOUN	üzerine 
+
+1.00	 1 	NOUN	kavimlerini 
+
+1.00	 1 	NOUN	liyâkata 
+
+1.00	 1 	NOUN	insanlık 
+
+1.00	 1 	PROPN	Hazar 
+
+1.00	 1 	NOUN	asker 
+
+1.00	 1 	NOUN	zanaatkarlar 
+
+1.00	 1 	X	Хаан 
+
+1.00	 1 	SCONJ	kadar 
+
+1.00	 4 	ADJ	büyük 
+
+1.00	 1 	ADJ	doğuş 
+
+1.00	 1 	NOUN	şehir 
+
+1.00	 1 	PROPN	Han'ın 
+
+1.00	 1 	NOUN	şekilde 
+
+1.00	 2 	ADV	daha 
+
+1.00	 1 	NOUN	milyonlarca 
+
+1.00	 2 	NOUN	döneminde 
+
+1.00	 1 	PROPN	Haan 
+
+1.00	 2 	NOUN	anlamı 
+
+1.00	 1 	VERB	gösterilmesi 
+
+1.00	 1 	NOUN	kabul 
+
+1.00	 1 	NOUN	başkenti 
+
+1.00	 2 	NOUN	haline 
+
+1.00	 1 	NUM	13 
+
+1.00	 1 	NOUN	milletten 
+
+1.00	 1 	ADJ	casus 
+
+1.00	 1 	NOUN	efsanesi 
+
+1.00	 1 	NOUN	sınırlara 
+
+1.00	 1 	NOUN	Uygurlardan 
+
+1.00	 1 	VERB	metinleştirilen 
+
+1.00	 1 	NOUN	torunları 
+
+1.00	 1 	NOUN	Karadeniz'in 
+
+1.00	 1 	NOUN	Yasası 
+
+1.00	 9 	PROPN	Cengiz 
+
+1.00	 1 	VERB	istemiştir 
+
+1.00	 1 	VERB	olmuş 
+
+1.00	 22 	PUNCT	, 
+
+1.00	 1 	NOUN	adı 
+
+1.00	 1 	VERB	birleştirerek 
+
+1.00	 1 	ADJ	geniş 
+
+1.00	 1 	NOUN	ayrım 
+
+1.00	 1 	PROPN	Temuçin 
+
+1.00	 1 	NOUN	kökleri. 
+
+1.00	 1 	VERB	öğretmesini 
+
+1.00	 1 	NOUN	vergiden 
+
+1.00	 1 	NOUN	Rus 
+
+1.00	 1 	NUM	1206-1227 
+
+1.00	 1 	NOUN	Seferleri 
+
+1.00	 1 	PRON	kendisinin 
+
+1.00	 1 	NOUN	atalarının 
+
+1.00	 4 	PUNCT	: 
+
+1.00	 1 	NOUN	Yüzyılın 
+
+1.00	 1 	NOUN	kişiler 
+
+1.00	 1 	NOUN	Dünya 
+
+1.00	 1 	VERB	tutar 
+
+1.00	 1 	ADV	esnasında 
+
+1.00	 5 	ADV	da 
+
+1.00	 1 	NOUN	arasında 
+
+1.00	 1 	VERB	olduğu 
+
+1.00	 1 	NOUN	komutan 
+
+1.00	 2 	NOUN	sonucunda 
+
+1.00	 1 	PROPN	Kıpçak'taki 
+
+1.00	 1 	PROPN	Khan 
+
+1.00	 1 	PROPN	Harezm 
+
+1.00	 1 	PROPN	Maveraünnehir 
+
+1.00	 1 	ADV	sonra 
+
+1.00	 1 	NOUN	hükümdar 
+
+1.00	 1 	ADJ	çok 
+
+1.00	 1 	NOUN	ordu 
